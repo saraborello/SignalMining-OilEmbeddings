@@ -1,2 +1,4 @@
 Data/Models/crude_bert_model.bin filter=lfs diff=lfs merge=lfs -text
 Data/raw/df_sentiment.csv filter=lfs diff=lfs merge=lfs -text
+Data/raw/news_embeddings_all.csv filter=lfs diff=lfs merge=lfs -text
+Data/raw/embeddings_CA_ST.csv filter=lfs diff=lfs merge=lfs -text
