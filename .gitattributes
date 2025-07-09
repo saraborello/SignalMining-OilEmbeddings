@@ -3,3 +3,4 @@ Data/raw/df_sentiment.csv filter=lfs diff=lfs merge=lfs -text
 Data/raw/news_embeddings_all.csv filter=lfs diff=lfs merge=lfs -text
 Data/raw/embeddings_CA_ST.csv filter=lfs diff=lfs merge=lfs -text
 /Data/raw/embeddings_feature_distilbert-base-uncased.csv filter=lfs diff=lfs merge=lfs -text
+/Data/raw/embeddings_feature_news_embeddings_Word2Vec_HF_En.csv filter=lfs diff=lfs merge=lfs -text
