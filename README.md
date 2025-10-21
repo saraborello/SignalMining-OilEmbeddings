@@ -136,9 +136,3 @@ jupyter notebook
 
 The project demonstrates the effectiveness of combining **sentiment analysis**, **semantic embeddings**, and **time series forecasting** for modeling oil market behavior.
 Hybrid architectures incorporating NLP features significantly improve predictive accuracy over purely numerical baselines.
-
-
-
----
-
-Vuoi che aggiunga anche un piccolo **abstract accademico all’inizio** (3–4 righe) per quando lo carichi su GitHub — così da dare subito un’idea chiara ai visitatori e migliorare l’indicizzazione del progetto?
